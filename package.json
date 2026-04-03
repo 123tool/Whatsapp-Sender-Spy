@@ -1,0 +1,16 @@
+{
+  "name": "spy-whatsapp-sender",
+  "version": "2.0.0",
+  "description": "Professional WhatsApp Automation: Bulk Sender & Auto-Responder by SPY-E & 123Tool",
+  "main": "spy-wa.js",
+  "scripts": {
+    "start": "node spy-wa.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SPY-E & 123Tool",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "whatsapp-web.js": "^1.23.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
